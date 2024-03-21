@@ -1,3 +1,8 @@
+
+![a001-a1](https://github.com/GonzaloVolonterio/RN-Components-app-fin/assets/64506662/043d60b2-f69a-4136-b8f2-cb91f9e10ed7)
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
